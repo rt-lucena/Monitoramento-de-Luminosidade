@@ -23,10 +23,14 @@ Este projeto é um sistema de monitoramento de luminosidade para a Vinheria Agne
 
 ## Membros
 
-- Rafael Teofilo Lucena **RM 555600
-- Israel Araujo Henriques de Moura **RM 559068
-- Lucas Feliciano **RM 557261
-- Pablo Henrique Almeida Viera **RM 558997
+- Rafael Teofilo Lucena **RM 555600**
+- Israel Araujo Henriques de Moura **RM 559068**
+- Lucas Feliciano **RM 557261**
+- Pablo Henrique Almeida Viera **RM 558997**
+
+## Video Explicando o Projeto
+
+https://drive.google.com/file/d/1TOZwLbee7ImmQiAF3C0Z2cM6fUMndF52/view?usp=drive_link
 
 ## Suporte
 
