@@ -21,6 +21,13 @@ Este projeto é um sistema de monitoramento de luminosidade para a Vinheria Agne
 
 3. **Monitoramento da Luminosidade**: Após o carregamento do código, o sistema começará a monitorar a luminosidade do ambiente. Os LEDs indicarão o estado da luminosidade e o buzzer será acionado quando a luminosidade estiver em nível de alerta.
 
+## Membros
+
+- Rafael Teofilo Lucena **RM 555600
+- Israel Araujo Henriques de Moura **RM 559068
+- Lucas Feliciano **RM 557261
+- Pablo Henrique Almeida Viera **RM 558997
+
 ## Suporte
 
 Se você tiver alguma dúvida ou encontrar algum problema, por favor, abra uma issue neste repositório.
