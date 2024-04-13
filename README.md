@@ -30,7 +30,7 @@ Este projeto é um sistema de monitoramento de luminosidade para a Vinheria Agne
 
 ## Video Explicando o Projeto
 
-https://drive.google.com/file/d/1TOZwLbee7ImmQiAF3C0Z2cM6fUMndF52/view?usp=drive_link
+https://youtu.be/h9mcJ05j3bk
 
 ## Suporte
 
